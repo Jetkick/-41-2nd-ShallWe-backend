@@ -54,7 +54,7 @@
 <br>
 
 ## 회고록
-- 
+- https://velog.io/@tooil10/shallWe-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0
 
 <br>
 
